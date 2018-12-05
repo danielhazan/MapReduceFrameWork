@@ -7,10 +7,9 @@ Files -->
  	Barrier.cpp 	
 	Barrier.h 	
 	MapReduceClient.h 	
-	MapReduceFramework.cpp 	
+	MapReduceFramework.cpp - the crucial methods for map, sort and reduce
 	MapReduceFramework.h 	
 	SampleCLient.cpp 	
-	atomicdemo.cpp 	- demo for using atomic variables and barrier
+	atomicdemo.cpp 	- demo for using atomic variables with pthread.h library
 	bigClientTest.cpp - test containig main method for checking the resuls of framework
-	eurovisionCLientTest.cpp 
-	littleClientTest.cpp
+
